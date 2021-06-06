@@ -16,6 +16,15 @@ text-align: center;
 }
 
 img {
-  width: 300px;
+  width: 250px;
 }
 
+.container {
+  padding: 20px;
+}
+
+.excerpt {
+  background-color: antiquewhite;
+  padding: 15px;
+  font-family: "Times New Roman"
+}
